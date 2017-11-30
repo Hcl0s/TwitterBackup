@@ -1,2 +1,2 @@
 # TwitterBackup
-This application will backup all tweets the user specifies
+This application will backup all tweets of the account the user specifies
